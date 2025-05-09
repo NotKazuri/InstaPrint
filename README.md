@@ -1,7 +1,7 @@
 # InstaPrint
 This is the repository for our Investigatory Project.
 
-#To set the application app:
+**To set the application app:**
 
 1. Create a 2 folders. For the main application folder and 'Select a file' folder (for user's file to be chosen)
 2. Now, select the main application folder.
