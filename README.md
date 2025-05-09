@@ -3,6 +3,7 @@ This is the repository for our Investigatory Project.
 
 # **To set the application app:**
 
+(Install Python and any IDE first)
 1. Create a 2 folders. For the main application folder and 'Select a file' folder (for user's file to be chosen)
 2. Now, select the main application folder.
 3. Using VS Code's terminal, create a virtual environment for the dependencies  (dependencies are the main support or framework that will help to build this application)
