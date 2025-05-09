@@ -16,23 +16,22 @@ This is the repository for our Investigatory Project.
     - Press CRTL + F and search 'InstaPrint' as the keyword and changed the appropriate file location depending on your situation.
 7. To set up the printers, press CRTL + F and search long or short. After that, just change the current name of the printer. (Make sure that it's the exact name of each printer)
 
-#Changing the interface
+# **Changing the interface**
 NOTE: This app is fully customizable, depending to your chosen design the developer can change the whole app's interface.
 After installing the dependencies and seting up the main application's whole file, now proceed to installing the interface of the app.
 
 The interface can be change, just go to: https://www.figma.com/design/8qyESmi2f3OMeXrn6ikQMK/InstaPrint-Interface?t=aG8ZKlJSRj7vBDfr-1
 
-#To set up the payment system:
-
-The things that are going to be use are:
-- Arduino UNO (component)
-- Arduino IDE (software)
-- Coin Slot (component)
-- Power Supply (component)
-- 
+# **To set up the payment system:**
 1. Follow this tutorial: https://www.youtube.com/watch?v=l3SVj6t4sq0w
 2. After setting up the Coin Slot, now proceed to programming the Arduino Uno.
     - Copy the script in GitHub for the Coin slot > paste in Arduino IDE.
     - Set up the pins and wirings of the Power Supply and Coin Slot.
     - Make sure to check the proper COM and baud rate in Arduino IDE if they correctly alligned in Python (if not, changed it)
     - Now the Coin Slot should work without any errors.
+  
+# **The things that are going to be use are:**
+- Arduino UNO (component)
+- Arduino IDE (software)
+- Coin Slot (component)
+- Power Supply (component)
